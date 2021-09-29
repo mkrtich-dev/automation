@@ -1,3 +1,3 @@
-#It's my 21st home work
+#It's my 21st homework
 
 #I'm pushing this to Mkrtich's repository
